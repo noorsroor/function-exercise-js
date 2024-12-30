@@ -12,5 +12,7 @@ A simple project to practice JavaScript functions, array methods, and their inte
 
 ## Topics Covered
 - JavaScript functions.
-- Array methods 
+- Array methods
+
+[**Live URL**](https://noorsroor.github.io/function-exercise-js/)
 
